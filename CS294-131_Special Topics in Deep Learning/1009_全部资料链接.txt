@@ -1,0 +1,6 @@
+main readings£º
+http://nlp.seas.harvard.edu/2018/04/03/attention.html
+
+background readings£º
+https://allennlp.org/elmo
+http://jalammar.github.io/illustrated-transformer/

@@ -1,0 +1,3 @@
+文件名开头为lecture日期，M表示main readings，B表示background readings，如“0828M_xxx”为08/28的main readings。
+有些资料除了paper还包括源码、博客等，在相关txt给出了链接。
+10/23、10/30、11/06尚未更新。
